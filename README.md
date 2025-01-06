@@ -1,6 +1,5 @@
 # Fresh-Flow-Grocery-Mobile-App-portfolio-project
 
-# Fresh Flow Grocery Mobile App  
 
 ## 📋 Project Overview  
 The *Fresh Flow Grocery Mobile App* is a business analysis project aimed at transforming manual grocery store operations into a seamless digital experience. The app focuses on improving customer convenience, operational efficiency, and delivery management.  
