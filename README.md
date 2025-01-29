@@ -1,4 +1,4 @@
-# Fresh-Flow-Grocery-Mobile-App-portfolio-project
+# Fresh-Flow-Grocery-Mobile-App-project
 
 
 ## 📋 Project Overview  
